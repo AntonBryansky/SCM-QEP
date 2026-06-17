@@ -1,8 +1,17 @@
-# QEP-SCM
-This repository contains code for methods implementations decscribed in paper "A Quadratic-Eigenvalue Spectral Collocation Method for Leaky Lamb Waves in Orthotropic Plates on Isotropic Elastic Substrates"
+# Quadratic Eigenvalue problem formulation of the Spectral Collocation Method
+Calculate leaky Lamb wave dispersion and attenuation curves for orthotropic laminates bonded to isotropic substrates along principal axes of symmetry.
 
+## Description
+The MATLAB-based script for calculation of dispersion and attenuation curves for orthotropic plates bonded to isotropic substrate in decoupled Lamb leaky wave mode using (Pseudo-)Spectral Collocation Method.
 
+## Paper
+A. A. Bryansky, S. V. Panin, Dispersion curves calculation for all-CFRP sandwich composite using Spectral Collocation Method, Acta Astronautica (2025). [DOI](https://doi.org/10.1016/j.actaastro.2025.04.042)
 
+## Files
+
+`file.m` - Description 1
+
+`file2.m` - functions Description 2.
 
 ## Literature
 1. F. Hernando Quintanilla, M. J. S. Lowe, R. V. Craster, Modeling guided elastic waves in generally anisotropic media using a spectral collocation method, J. Acoust. Soc. Am. 137.3 (2015) 1180-1194. [DOI](https://doi.org/10.1121/1.4913777)
@@ -17,10 +26,10 @@ This repository contains code for methods implementations decscribed in paper "A
 ## Important links:
 [Dispersion Calculator](https://github.com/ArminHuber/Dispersion-Calculator) by Armin Huber
 
-About balancing algorithm for eigenvalue problem:
-[BALANCE2 Balancing generalized eigenvalue problem](https://www.mathworks.com/matlabcentral/fileexchange/49719-balance2-balancing-generalized-eigenvalue-problem) (requires
-[GCG Generalized conjugate gradient method](https://www.mathworks.com/matlabcentral/fileexchange/49720-gcg-generalized-conjugate-gradient-method))
+About algorithm for solving of quadratic eigenvalue problem:
+[quadeig](https://github.com/ftisseur/quadratic-eigensolver) 
 
 ## Thanks to
+* Renat R. Badykov, Harbin Institute of Technology, Harbin, China
 * Dr. Armin Huber, German Aerospace Center (DLR), Augsburg, Germany
 * [asm-jaime](https://github.com/asm-jaime)
