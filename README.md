@@ -30,6 +30,5 @@ About algorithm for solving of quadratic eigenvalue problem:
 [quadeig](https://github.com/ftisseur/quadratic-eigensolver) 
 
 ## Thanks to
-* Renat R. Badykov, Harbin Institute of Technology, Harbin, China
 * Dr. Armin Huber, German Aerospace Center (DLR), Augsburg, Germany
 * [asm-jaime](https://github.com/asm-jaime)
