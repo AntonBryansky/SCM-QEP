@@ -9,7 +9,10 @@ This repository contains code for methods implementations decscribed in paper "A
 2. F. Hernando Quintanilla, M. J. S. Lowe, R. V. Craster, The symmetry and coupling properties of solutions in general anisotropic multilayer waveguides, J. Acoust. Soc. Am. 141(1) (2017) 406-418. [DOI](https://doi.org/10.1121/1.4973543)
 3. M. Mekkaoui, S. Nissabouri, H. Rhimini, Towards an Optimization of the Spectral Collocation Method with a New Balancing Algorithm for Plotting Dispersion Curves of Composites with Large Numbers of Layers, J. Appl. Comput. Mech. 10(4) (2024) 801-816. [DOI](https://doi.org/10.22055/jacm.2024.45578.4390)
 4. I. Zitouni, H. Rhimini, A. Chouaf, Comparative study of the spectral method, DISPERSE and other‎ classical methods for plotting the dispersion curves in‎ anisotropic plates, J. Appl. Comput. Mech. 9(4) (2023) 955-973. [DOI](https://doi.org/10.22055/jacm.2023.42530.3941)
-5. A. Huber, M. G. Sause, Classification of solutions for guided waves in anisotropic composites with large numbers of layers, J. Acoust. Soc. Am. 144(6) (2018) 3236-3251. [DOI](https://doi.org/10.1121/1.5082299)
+5. Georgiades, E., Lowe, M. J., & Craster, R. V. Leaky wave characterisation using spectral methods, J. Acoust. Soc. Am. 152(3) (2022) 1487-1497. [DOI](https://doi.org/10.1121/10.0013897)
+6. Georgiades, E., Lowe, M. J., & Craster, R. V. Computing leaky Lamb waves for waveguides between elastic half-spaces using spectral collocation, J. Acoust. Soc. Am. 155(1) (2024) 629-639. [DOI](https://doi.org/10.1121/10.0024467)
+7. Hammarling, S., Munro, C. J., & Tisseur, F. An algorithm for the complete solution of quadratic eigenvalue problems. ACM Transactions on Mathematical Software (TOMS) 39(3) (2013) 1-19. [DOI](https://doi.org/10.1145/2450153.2450156)
+8. A. Huber, M. G. Sause, Classification of solutions for guided waves in anisotropic composites with large numbers of layers, J. Acoust. Soc. Am. 144(6) (2018) 3236-3251. [DOI](https://doi.org/10.1121/1.5082299)
 
 ## Important links:
 [Dispersion Calculator](https://github.com/ArminHuber/Dispersion-Calculator) by Armin Huber
