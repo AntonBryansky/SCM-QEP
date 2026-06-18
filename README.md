@@ -1,4 +1,4 @@
-# Quadratic Eigenvalue problem formulation of the Spectral Collocation Method
+# Quadratic Eigenvalue Problem formulation of the Spectral Collocation Method
 Calculate leaky Lamb wave dispersion and attenuation curves for orthotropic laminates bonded to isotropic substrates along principal axes of symmetry.
 
 ## Description
