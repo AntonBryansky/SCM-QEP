@@ -9,7 +9,7 @@ A. A. Bryansky, R. R. Badykov, Paper name, Journal name (year).
 
 ## Files
 
-`file.m` - Description 1
+`SCM_Lamb_SL.m` - Spectral Collocation Method for calculation of the dispersion curves for free orthotropic single-layered media.
 
 `file2.m` - functions Description 2.
 
