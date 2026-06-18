@@ -1,5 +1,5 @@
 # Quadratic Eigenvalue Problem formulation of the Spectral Collocation Method
-Calculate leaky Lamb wave dispersion and attenuation curves for orthotropic laminates bonded to isotropic substrates along principal axes of symmetry.
+Calculate leaky Lamb wave dispersion and attenuation curves for orthotropic layers bonded to isotropic substrates along principal axes of symmetry.
 
 ## Description
 The MATLAB-based script for calculation of dispersion and attenuation curves for orthotropic plates bonded to isotropic substrate in decoupled Lamb leaky wave mode using (Pseudo-)Spectral Collocation Method.
@@ -12,6 +12,8 @@ A. A. Bryansky, R. R. Badykov, Paper name, Journal name (year).
 `SCM_Lamb_SL.m` - Spectral Collocation Method for calculation of the dispersion curves for free orthotropic single-layered media.
 
 `SCM_Lamb_QUADEIG_SL.m` - Spectral Collocation Method reformulated as Quadratic Eigenvalue Problem for calculation of the dispersion curves for free orthotropic single-layered media.
+
+`SCM_Lamb_QUADEIG_SL_SUB_POTENTIAL.m` - Spectral Collocation Method reformulated as Quadratic Eigenvalue Problem for calculation of the dispersion curves for the orthotropic single-layered media bonded to the isotropic substrate.
 
 `quadeig.m` - Quadratic eigenvalue problem solver (look [Important links](#important-links))
 
