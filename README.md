@@ -26,7 +26,7 @@ A. A. Bryansky, R. R. Badykov, Paper name, Journal name (year).
 6. Georgiades, E., Lowe, M. J., & Craster, R. V. Computing leaky Lamb waves for waveguides between elastic half-spaces using spectral collocation, J. Acoust. Soc. Am. 155(1) (2024) 629-639. [DOI](https://doi.org/10.1121/10.0024467)
 7. Hammarling, S., Munro, C. J., & Tisseur, F. An algorithm for the complete solution of quadratic eigenvalue problems. ACM Transactions on Mathematical Software (TOMS) 39(3) (2013) 1-19. [DOI](https://doi.org/10.1145/2450153.2450156)
 8. A. Huber, M. G. Sause, Classification of solutions for guided waves in anisotropic composites with large numbers of layers, J. Acoust. Soc. Am. 144(6) (2018) 3236-3251. [DOI](https://doi.org/10.1121/1.5082299)
-9. J. Weideman, S. Reddy, A MATLAB differentiation matrix suite, ACM Trans. Math. Softw. 26(4) (2000) 465–519. [DOI] (https://doi.org/10.1145/365723.365727)
+9. J. Weideman, S. Reddy, A MATLAB differentiation matrix suite, ACM Trans. Math. Softw. 26(4) (2000) 465–519. [DOI](https://doi.org/10.1145/365723.365727)
 
 ## Important links:
 [Dispersion Calculator](https://github.com/ArminHuber/Dispersion-Calculator) by Armin Huber
