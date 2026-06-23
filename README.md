@@ -11,6 +11,8 @@ A. A. Bryansky, R. R. Badykov, Paper name, Journal name (year).
 
 `SCM_Lamb_SL.m` - Spectral Collocation Method for calculation of the dispersion curves for free orthotropic single-layered media.
 
+`SCM_Lamb_ML.m` - Spectral Collocation Method for calculation of the dispersion curves for free orthotropic multi-layered media.
+
 `SCM_Lamb_QUADEIG_SL.m` - Spectral Collocation Method reformulated as Quadratic Eigenvalue Problem for calculation of the dispersion curves for free orthotropic single-layered media.
 
 `SCM_Lamb_QUADEIG_SL.m` - Spectral Collocation Method reformulated as Quadratic Eigenvalue Problem for calculation of the dispersion curves for free orthotropic multi-layered media.
