@@ -5,7 +5,7 @@ Calculate leaky Lamb wave dispersion and attenuation curves for orthotropic laye
 The MATLAB-based script for calculation of dispersion and attenuation curves for orthotropic plates bonded to isotropic substrate in decoupled Lamb leaky wave mode using Spectral Collocation Method.
 
 ## Paper
-A. A. Bryansky, R. R. Badykov, Paper name, Journal name (year).
+A. A. Bryansky, R. R. Badykov, Paper name, Journal name (year) Volume Pages-Pages.
 
 ## Files
 
