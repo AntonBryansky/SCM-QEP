@@ -9,9 +9,13 @@ A. A. Bryansky, R. R. Badykov, Paper name, Journal name (year) Volume Pages-Page
 
 ## Files
 
-`SCM_Lamb_SL.m` - Spectral Collocation Method for calculation of the dispersion curves for free orthotropic single-layered media.
+`SCM_SL.m` - Spectral Collocation Method for calculation of the dispersion curves for free orthotropic single-layered media coupled case.
 
-`SCM_Lamb_ML.m` - Spectral Collocation Method for calculation of the dispersion curves for free orthotropic multi-layered media.
+`SCM_Lamb_SL.m` - Spectral Collocation Method for calculation of the dispersion curves for free orthotropic single-layered media Lamb decoupled case.
+
+`SCM_ML.m` - Spectral Collocation Method for calculation of the dispersion curves for free orthotropic multi-layered media coupled case.
+
+`SCM_Lamb_ML.m` - Spectral Collocation Method for calculation of the dispersion curves for free orthotropic multi-layered media Lamb decoupled case.
 
 `balance2.m` and `gcg.m` - functions required for balancing algorithm (look [Important links](#important-links)).
 
