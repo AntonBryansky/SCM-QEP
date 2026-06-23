@@ -13,13 +13,13 @@ A. A. Bryansky, R. R. Badykov, Paper name, Journal name (year) Volume Pages-Page
 
 `SCM_ML.m` and `SCM_Lamb_ML.m` - Spectral Collocation Method for calculation of the dispersion curves for free orthotropic multi-layer media, coupled and Lamb decouplde cases, respectively.
 
-`balance2.m` and `gcg.m` - functions required for balancing algorithm (look [Important links](#important-links)).
-
 `SCM_QUADEIG_SL.m` and `SCM_Lamb_QUADEIG_SL.m` - Spectral Collocation Method reformulated as Quadratic Eigenvalue Problem for calculation of the dispersion curves for free orthotropic single-layer media, coupled and Lamb decouplde cases, respectively.
 
 `SCM_QUADEIG_ML.m` and `SCM_Lamb_QUADEIG_ML.m` - Spectral Collocation Method reformulated as Quadratic Eigenvalue Problem for calculation of the dispersion curves for free orthotropic multi-layer media, , coupled and Lamb decouplde cases, respectively.
 
 `SCM_Lamb_QUADEIG_SL_SUB_POTENTIAL.m` - Spectral Collocation Method reformulated as Quadratic Eigenvalue Problem for calculation of the dispersion curves for the orthotropic single-layered media bonded to the isotropic substrate.
+
+`balance2.m` and `gcg.m` - functions required for balancing algorithm (look [Important links](#important-links)).
 
 `quadeig.m` - Quadratic eigenvalue problem solver (look [Important links](#important-links))
 
